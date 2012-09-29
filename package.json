@@ -2,7 +2,7 @@
   "name":        "hosted-hubot",
   "version":     "2.3.2",
   "author":      "GitHub Inc.",
-  "keywords":    "github hubot campfire bot",
+  "keywords":    "github hubot irc bot",
   "description": "A simple helpful Robot for your Company",
   "licenses":     [{
     "type":       "MIT",
