@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   hubot latimes - Get the latest headlines
+#   hubot latimes - Get the latest headlines from @latimes
 #
 # Author:
 #   Ben Welsh, based on news.coffee by Matt McCormick
