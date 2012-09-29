@@ -2,5 +2,19 @@
     "redis-brain.coffee",
     "tweet.coffee",
     "shipit.coffee",
-    "manatee.coffee"
+    "manatee.coffee",
+    "applause.coffee",
+    "bees.coffee",
+    "coin.coffee",
+    "cowsay.coffee",
+    "do-it-live.coffee",
+    "fml.coffee",
+    "git-help.coffee",
+    "jordan.coffee",
+    "latimes.coffee",
+    "news.coffee",
+    "sheits.coffee",
+    "shorten.coffee",
+    "travis.coffee",
+    "wunderground.coffee"
 ]
