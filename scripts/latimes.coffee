@@ -22,7 +22,7 @@ module.exports = (robot) ->
       
       strings.push "The latest headlines from @latimes:\n"
       
-      for story in response.items
+      for story in response.items.slice(0, 4)
         strings.push story.title.replace(/&#39;/g, "'").replace(/`/g, "'").replace(/&quot;/g, "\"")
         strings.push story.link + "\n"
         
