@@ -14,7 +14,7 @@
 
 messages = [
   "We say what we wanna say, play how we wanna play. http://www.youtube.com/watch?v=33DWqRyAAUw"
-  "There are some people who would have you not use certain words. http://www.youtube.com/watch?v=lqvLTJfYnik"
+  "There are some people who would have you not use certain words. http://www.youtube.com/watch?v=lqvLTJfYnik#t=1m22s"
 ]
 
 module.exports = (robot) ->
