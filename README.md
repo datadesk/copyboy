@@ -20,3 +20,4 @@ In addition to an array of standard hubot features, copyboy has a few tricks of 
 * [rewrite](https://github.com/datadesk/copyboy/blob/master/scripts/rewrite.coffee): Lets people know when you need rewrite.
 * [rollout](https://github.com/datadesk/copyboy/blob/master/scripts/rollout.coffee): Drops some Ludacris if anybody says "roll out."
 * [sevendirtywords](https://github.com/datadesk/copyboy/blob/master/scripts/sevendirtywords.coffee): Sends out some love whenever you use one of George Carlin's "seven dirty words."
+* [lat_preramble](https://github.com/datadesk/copyboy/blob/master/scripts/lat_preramble.coffee): When you tell copyboy to give you an intro for your project, he dutifully combs through our past efforts and comes up with a Genunine* L.A. Times project intro.
