@@ -20,7 +20,8 @@
     "hubot-scripts": ">= 2.1.3",
     "optparse": "1.0.3",
     "htmlparser": "1.7.6",
-    "soupselect": "0.2.0"
+    "soupselect": "0.2.0",
+    "markov": "0.0.6"
   },
 
   "engines": {
