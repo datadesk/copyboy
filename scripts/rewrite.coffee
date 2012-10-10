@@ -1,5 +1,5 @@
 # Description:
-#   Let people know when you need rewrite.
+#   Lets people know when you need rewrite.
 #
 # Dependencies:
 #   None

@@ -1,5 +1,5 @@
 # Description:
-#   Display a random youtube of an eagle kicking ass when certain phrases are used.
+#   Displays a random youtube of an eagle kicking ass when certain phrases are used.
 #
 # Dependencies:
 #   None
