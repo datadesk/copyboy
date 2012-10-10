@@ -1,5 +1,5 @@
 # Description:
-#   Drop some Ludacris if anybody says 'roll out.'
+#   Drops some Ludacris if anybody says 'roll out.'
 #
 # Dependencies:
 #   None
