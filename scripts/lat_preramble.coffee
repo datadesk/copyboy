@@ -17,7 +17,7 @@ module.exports = (robot) ->
   robot.respond /it needs an intro/i, (message) ->
     fs = require 'fs'
     markov = require 'markov'
-    m = markov()
+    m = markov 1
     buff = fs.readFileSync __dirname + '/lat_preramble.txt'
     m.seed buff
     response = m.respond(m.pick(), 110).join " "
