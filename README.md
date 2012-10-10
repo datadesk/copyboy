@@ -7,13 +7,13 @@
                 ||----w |
                 ||     ||</code></pre>
 
-This is the Los Angeles Times Data Desk fork of GitHub's Campfire bot, [hubot](https://github.com/github/hubot). It is aware of all Internet traditions.
+Copyboy is the Los Angeles Times Data Desk fork of GitHub's Campfire bot, [hubot](https://github.com/github/hubot). It is aware of all Internet traditions.
 
 This version is designed to be deployed on [Heroku](http://heroku.com) and experienced in IRC via [grove.io](http://grove.io).
 
 ## Features
 
-In addition to an array of standard hubot features, it has some original features.
+In addition to an array of standard hubot features, copyboy knows a few new tricks.
 
 * [caw](https://github.com/datadesk/copyboy/blob/master/scripts/caw.coffee): Displays a random youtube of an eagle kicking ass when certain phrases are used.
 * [latimes](https://github.com/datadesk/copyboy/blob/master/scripts/latimes.coffee): Returns the latest news headlines from the Los Angeles Times.
