@@ -13,5 +13,5 @@
 #   @palewire
 
 module.exports = (robot) ->
-  robot.hear /(rewrite|revision|change|patch|fix)/i, (msg) ->
+  robot.respond /(rewrite)/i, (msg) ->
     msg.send "RE-WRITE! ... I need rewrite!"
