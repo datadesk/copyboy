@@ -15,6 +15,8 @@
 messages = [
   "Holla!"
   "This shit. Is bananas. B-A-N-A-N-A-S."
+  "HOLLAAAAA!"
+  "Hooooody Hooo!"
 ]
 
 module.exports = (robot) ->
