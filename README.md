@@ -16,6 +16,7 @@ This version is designed to be deployed on [Heroku](http://heroku.com) and exper
 In addition to an array of standard hubot features, copyboy has a few tricks of his own.
 
 * [caw](https://github.com/datadesk/copyboy/blob/master/scripts/caw.coffee): Displays a random youtube of an eagle kicking ass when certain phrases are used.
+* [holla](https://github.com/datadesk/copyboy/blob/master/scripts/holla.coffee): Gets back at you.
 * [iesaysno](https://github.com/datadesk/copyboy/blob/master/scripts/iesaysno.coffee): How it feels when Internet Explorer comes down hard.
 * [latimes](https://github.com/datadesk/copyboy/blob/master/scripts/latimes.coffee): Returns the latest news headlines from the Los Angeles Times.
 * [preramble](https://github.com/datadesk/copyboy/blob/master/scripts/preramble.coffee): When you tell copyboy to give you an intro for your project, he dutifully combs through our past efforts and comes up with a genuine L.A. Times project preamble.
