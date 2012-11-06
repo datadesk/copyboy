@@ -15,7 +15,7 @@ This version is designed to be deployed on [Heroku](http://heroku.com) and exper
 
 In addition to an array of standard hubot features, copyboy has a few tricks of his own.
 
-* [arewemarkedtodie](https://github.com/datadesk/copyboy/blob/master/scripts/arewemarkedtodie.coffee): If we are mark’d to die, we are enow.
+* [arewemarkedtodie](https://github.com/datadesk/copyboy/blob/master/scripts/arewemarkedtodie.coffee): If we are mark’d to die, we are enough.
 * [caw](https://github.com/datadesk/copyboy/blob/master/scripts/caw.coffee): Displays a random youtube of an eagle kicking ass when certain phrases are used.
 * [holla](https://github.com/datadesk/copyboy/blob/master/scripts/holla.coffee): Gets back at you.
 * [iesaysno](https://github.com/datadesk/copyboy/blob/master/scripts/iesaysno.coffee): How it feels when Internet Explorer comes down hard.
