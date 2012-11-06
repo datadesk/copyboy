@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   copyboy motivate me - pulls a video from the list
+#
 # Author:
 #   emamd
 
@@ -25,4 +25,4 @@ inspirationals = [
 
 module.exports(robot) = ->
   robot.respond /motivate/i, (msg) ->
-        msg.send msg.random inspirationals
+    msg.send msg.random inspirationals
