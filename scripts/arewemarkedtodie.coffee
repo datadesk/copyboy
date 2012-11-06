@@ -1,5 +1,5 @@
 # Description:
-#   If we are mark’d to die, we are enow.
+#   If we are mark’d to die, we are enough.
 #
 # Dependencies:
 #   None
