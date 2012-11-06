@@ -12,7 +12,7 @@
 # Author:
 #   emamd
 
-images = [
+inspirationals = [
   "http://www.youtube.com/watch?v=A-yZNMWFqvM"
   "http://www.youtube.com/watch?v=WLrrBs8JBQo"
   "http://www.youtube.com/watch?v=QsmzDL61oME"
@@ -25,4 +25,4 @@ images = [
 
 module.exports(robot) = ->
     robot.respond /motivate me/i, (msg) ->
-        msg.send msg.random images
+        msg.send msg.random inspirationals
