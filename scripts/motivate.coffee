@@ -24,5 +24,5 @@ inspirationals = [
 ]
 
 module.exports(robot) = ->
-    robot.respond /motivate me/i, (msg) ->
+  robot.respond /motivate/i, (msg) ->
         msg.send msg.random inspirationals
