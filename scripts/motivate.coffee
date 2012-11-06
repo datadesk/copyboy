@@ -18,6 +18,7 @@ images = [
   "http://www.youtube.com/watch?v=QsmzDL61oME"
   "http://www.youtube.com/watch?v=1SUzcDUERLo"
   "http://www.youtube.com/watch?v=9rFx6OFooCs"
+  "http://www.youtube.com/watch?v=_rAHnwWfsaY"
 ]
 
 module.exports(robot) = ->
