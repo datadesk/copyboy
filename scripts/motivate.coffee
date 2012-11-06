@@ -23,6 +23,6 @@ inspirationals = [
   "http://www.youtube.com/watch?v=CDJS9rFGCHE"
 ]
 
-module.exports(robot) = ->
-  robot.respond /motivate/i, (msg) ->
+module.exports = (robot) ->
+  robot.hear /motivate me/i, (msg) ->
     msg.send msg.random inspirationals
