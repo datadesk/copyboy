@@ -25,4 +25,4 @@ In addition to an array of standard hubot features, copyboy has a few tricks of 
 * [rewrite](https://github.com/datadesk/copyboy/blob/master/scripts/rewrite.coffee): Lets people know when you need rewrite.
 * [rollout](https://github.com/datadesk/copyboy/blob/master/scripts/rollout.coffee): Drops some Ludacris if anybody says "roll out."
 * [sevendirtywords](https://github.com/datadesk/copyboy/blob/master/scripts/sevendirtywords.coffee): Sends out some love whenever you use one of George Carlin's "seven dirty words."
-* [thejournalistscreed](https://github.com/datadesk/copyboy/blob/master/scripts/thejournalistscreed.coffee): Professions from the code of ethics written in the early 1900s by Walter Williams, founder of the Missouri School of Journalism.
+* [thejournalistscreed](https://github.com/datadesk/copyboy/blob/master/scripts/thejournalistscreed.coffee): Professions from the code of ethics written by Walter Williams, founder of the Missouri School of Journalism.
