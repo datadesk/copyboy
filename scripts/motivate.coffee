@@ -8,6 +8,7 @@
 #   None
 #
 # Commands:
+#   hubot motivate me - Returns an inspirational video.
 #
 # Author:
 #   emamd
