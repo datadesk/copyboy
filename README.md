@@ -21,7 +21,7 @@ In addition to an array of standard hubot features, copyboy has a few tricks of 
 * [iesaysno](https://github.com/datadesk/copyboy/blob/master/scripts/iesaysno.coffee): How it feels when Internet Explorer comes down hard.
 * [latimes](https://github.com/datadesk/copyboy/blob/master/scripts/latimes.coffee): Returns the latest news headlines from the Los Angeles Times.
 * [motivate](https://github.com/datadesk/copyboy/blob/master/scripts/motivate.coffee): For when you need a little motivation.
-* [preramble](https://github.com/datadesk/copyboy/blob/master/scripts/preramble.coffee): When you tell copyboy to give you an intro for your project, he dutifully combs through our past efforts and comes up with a genuine L.A. Times project preamble.
+* [preramble](https://github.com/datadesk/copyboy/blob/master/scripts/preramble.coffee): Copyboy dutifully combs through our past efforts and comes up with a genuine L.A. Times project preamble.
 * [rewrite](https://github.com/datadesk/copyboy/blob/master/scripts/rewrite.coffee): Lets people know when you need rewrite.
 * [rollout](https://github.com/datadesk/copyboy/blob/master/scripts/rollout.coffee): Drops some Ludacris if anybody says "roll out."
 * [sevendirtywords](https://github.com/datadesk/copyboy/blob/master/scripts/sevendirtywords.coffee): Sends out some love whenever you use one of George Carlin's "seven dirty words."
