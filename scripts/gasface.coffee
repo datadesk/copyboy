@@ -13,5 +13,5 @@
 #   @palewire
 
 module.exports = (robot) ->
-  robot.respond /(gasface)/i, (msg) ->
+  robot.respond /(.*)(gasface|gas face)(.*)/i, (msg) ->
     msg.send "http://www.youtube.com/watch?v=QYp28tEAVvs"
