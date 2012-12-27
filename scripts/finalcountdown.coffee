@@ -1,5 +1,5 @@
 # Description:
-#   Some extra oomph for when you're on deadline
+#   Some extra oomph for when time's running out
 #
 # Dependencies:
 #   None
