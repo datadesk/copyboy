@@ -18,6 +18,7 @@ In addition to an array of standard hubot features, copyboy has a few tricks of 
 * [arewemarkedtodie](https://github.com/datadesk/copyboy/blob/master/scripts/arewemarkedtodie.coffee): If we are mark’d to die, we are enough.
 * [caw](https://github.com/datadesk/copyboy/blob/master/scripts/caw.coffee): Displays a random youtube of an eagle kicking ass when certain phrases are used.
 * [finalcountdown](https://github.com/datadesk/copyboy/blob/master/scripts/finalcountdown.coffee): Some extra oomph for when time's running out.
+* [gasface](https://github.com/datadesk/copyboy/blob/master/scripts/gasface.coffee): Give 'em the gas face.
 * [holla](https://github.com/datadesk/copyboy/blob/master/scripts/holla.coffee): Gets back at you.
 * [iesaysno](https://github.com/datadesk/copyboy/blob/master/scripts/iesaysno.coffee): How it feels when Internet Explorer comes down hard.
 * [itsatrap](https://github.com/datadesk/copyboy/blob/master/scripts/itsatrap.coffee): It's a trap!!
