@@ -18,5 +18,5 @@ messages = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /(shit|piss|fuck|cunt|cocksucker|motherfucker|tits)/i, (msg) ->
+  robot.respond /(shit|piss|fuck|cunt|cocksucker|motherfucker|tits)/i, (msg) ->
     msg.send msg.random messages
