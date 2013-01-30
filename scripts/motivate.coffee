@@ -23,6 +23,7 @@ inspirationals = [
   "http://www.youtube.com/watch?v=-4pg6Jh94Lo"
   "http://www.youtube.com/watch?v=CDJS9rFGCHE"
   "http://www.youtube.com/watch?v=AyggY_R3jU8"
+  "http://www.youtube.com/watch?v=31Yx9zkMXQk#t=1m25s" # Rocky II 'church' scene
 ]
 
 module.exports = (robot) ->
