@@ -107,5 +107,5 @@ code_words = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /code/i, (msg) ->
+  robot.respond /(.*)code(.*)/i, (msg) ->
     msg.send msg.random code_words
