@@ -18,7 +18,7 @@
 #   None
 #
 # Commands:
-#   hubot i need a code word
+#   hubot i need a code
 #
 # Author:
 #   @palewire, drawn from W.A. Swanberg's book "Pulitzer"
@@ -107,5 +107,5 @@ code_words = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /i need a code/i, (msg) ->
+  robot.respond /\i need a code/i, (msg) ->
     msg.send msg.random code_words
