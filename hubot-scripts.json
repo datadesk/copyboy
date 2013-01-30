@@ -12,7 +12,6 @@
     "ping.coffee",
     "sheits.coffee",
     "shorten.coffee",
-    "travis.coffee",
     "wunderground.coffee",
     "redis-brain.coffee",
     "tweet.coffee",
