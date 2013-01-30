@@ -107,5 +107,5 @@ code_words = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /(caw|eagle|freedom|liberty|america)/i, (msg) ->
+  robot.respond /code/i, (msg) ->
     msg.send msg.random code_words
