@@ -13,9 +13,9 @@
 #   @palewire
 
 images = [
-  "http://www.youtube.com/watch?v=33DWqRyAAUw"
-  "http://www.youtube.com/watch?v=hecXupPpE9o"
-  "http://www.youtube.com/watch?v=6R6E62hHLpM"
+  "http://www.youtube.com/watch?v=33DWqRyAAUw" # red-tailed hawk screaming
+  "http://www.youtube.com/watch?v=hecXupPpE9o" # Bald Eagle catches salmon
+  "http://www.youtube.com/watch?v=6R6E62hHLpM" # Bald Eagle Catching Fish in Pond -
 ]
 
 module.exports = (robot) ->
