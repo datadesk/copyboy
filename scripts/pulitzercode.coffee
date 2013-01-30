@@ -2,8 +2,8 @@
 #   Returns a random word from Joseph Pulitzer's book of coded names and terms.
 #
 #   Intended to help news organizations name projects in the neutral manner 
-#   employed by Scotland Yard and other UK law enforcement. You can read
-#   more about it in BBC. http://news.bbc.co.uk/2/hi/uk_news/magazine/7288489.stm
+#   employed by Scotland Yard and other UK law enforcement. Source: 
+#   http://news.bbc.co.uk/2/hi/uk_news/magazine/7288489.stm
 #
 #   According to W.A. Swanberg's biography, "Pulitzer," the Pulitzer code book
 #   ran 250 pages long and contained at least 20,000 coded names and terms.
