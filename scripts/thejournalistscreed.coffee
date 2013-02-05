@@ -1,5 +1,5 @@
 # Description:
-#   Professions from "The Journalit's Creed", a code of ethics written in the early 1900s 
+#    Professions from "The Journalit's Creed", a code of ethics written in the early 1900s 
 #    by Walter Williams, founder of the Missouri School of Journalism.
 #
 #    Source: http://en.wikipedia.org/wiki/Journalist's_Creed
