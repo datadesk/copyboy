@@ -14,6 +14,5 @@
     "sheits.coffee",
     "wunderground.coffee",
     "redis-brain.coffee",
-    "tweet.coffee",
     "shipit.coffee"
 ]
