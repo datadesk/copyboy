@@ -12,10 +12,14 @@
 
 module.exports = (robot) ->
 
+  if process.env.HUBOT_AUTH_ADMIN?
+    robot.logger.warning 'The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it'
+    return
+
   getAmbiguousUserText = (users) ->
     "Be more specific, I know #{users.length} people named like that: #{(user.name for user in users).join(", ")}"
 
-  robot.respond /who is @?([\w .-]+)\?*$/i, (msg) ->
+  robot.respond /who is @?([\w .\-]+)\?*$/i, (msg) ->
     joiner = ', '
     name = msg.match[1].trim()
 
@@ -24,7 +28,7 @@ module.exports = (robot) ->
     else if name is robot.name
       msg.send "The best."
     else
-      users = robot.usersForFuzzyName(name)
+      users = robot.brain.usersForFuzzyName(name)
       if users.length is 1
         user = users[0]
         user.roles = user.roles or [ ]
@@ -39,13 +43,13 @@ module.exports = (robot) ->
       else
         msg.send "#{name}? Never heard of 'em"
 
-  robot.respond /@?([\w .-_]+) is (["'\w: -_]+)[.!]*$/i, (msg) ->
+  robot.respond /@?([\w .\-_]+) is (["'\w: \-_]+)[.!]*$/i, (msg) ->
     name    = msg.match[1].trim()
     newRole = msg.match[2].trim()
 
     unless name in ['', 'who', 'what', 'where', 'when', 'why']
       unless newRole.match(/^not\s+/i)
-        users = robot.usersForFuzzyName(name)
+        users = robot.brain.usersForFuzzyName(name)
         if users.length is 1
           user = users[0]
           user.roles = user.roles or [ ]
@@ -54,7 +58,7 @@ module.exports = (robot) ->
             msg.send "I know"
           else
             user.roles.push(newRole)
-            if name.toLowerCase() is robot.name
+            if name.toLowerCase() is robot.name.toLowerCase()
               msg.send "Ok, I am #{newRole}."
             else
               msg.send "Ok, #{name} is #{newRole}."
@@ -63,12 +67,12 @@ module.exports = (robot) ->
         else
           msg.send "I don't know anything about #{name}."
 
-  robot.respond /@?([\w .-_]+) is not (["'\w: -_]+)[.!]*$/i, (msg) ->
+  robot.respond /@?([\w .\-_]+) is not (["'\w: \-_]+)[.!]*$/i, (msg) ->
     name    = msg.match[1].trim()
     newRole = msg.match[2].trim()
 
     unless name in ['', 'who', 'what', 'where', 'when', 'why']
-      users = robot.usersForFuzzyName(name)
+      users = robot.brain.usersForFuzzyName(name)
       if users.length is 1
         user = users[0]
         user.roles = user.roles or [ ]
