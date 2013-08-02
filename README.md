@@ -31,3 +31,4 @@ In addition to an array of standard hubot features, copyboy has a few tricks of 
 * [sevendirtywords](https://github.com/datadesk/copyboy/blob/master/scripts/sevendirtywords.coffee): Sends out some love whenever you use one of George Carlin's "seven dirty words."
 * [thejournalistscreed](https://github.com/datadesk/copyboy/blob/master/scripts/thejournalistscreed.coffee): Professions from the code of ethics written by Walter Williams, founder of the Missouri School of Journalism.
 * [underpressure](https://github.com/datadesk/copyboy/blob/master/scripts/underpressure.coffee): Feeling under pressure? Copyboy can help.
+* [beyonce](https://github.com/datadesk/copyboy/blob/master/scripts/beyonce.coffee): Who runs the world? Ask copyboy.
