@@ -38,7 +38,7 @@ code_words = [
   'gamma' # Horatio W. Seymour
   'gammon' # Boss Charles F. Murphy
   'george' # Bradford Merrill
-  'glutinous' # Theodore Roosevel
+  'glutinous' # Theodore Roosevelt
   'gorgon' # Boss Richard Croker
   'gosling' # Democratic party
   'gramercy' # Admiral George Dewey
