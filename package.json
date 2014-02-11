@@ -15,8 +15,8 @@
   },
 
   "dependencies": {
-    "hubot": "2.6.4",
-    "hubot-irc": ">=0.1.0",
+    "hubot": "2.7.1",
+    "hubot-irc": ">=0.1.25",
     "optparse": "1.0.5",
     "hubot-scripts": "2.5.4",
     "htmlparser": "1.7.6",
