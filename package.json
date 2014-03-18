@@ -22,12 +22,12 @@
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
     "markov": "0.0.6",
-    "randomstring": ">=0.0.1"
+    "randomstring": "1.0.2"
   },
 
   "engines": {
     "node": "0.11.11",
-    "npm": ">=1.1.x"
+    "npm": "1.1.x"
   }
 }
 
