@@ -13,5 +13,6 @@
     "sheits.coffee",
     "wunderground.coffee",
     "redis-brain.coffee",
-    "shipit.coffee"
+    "shipit.coffee",
+    "travis.coffee"
 ]
