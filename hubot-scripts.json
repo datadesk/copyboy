@@ -14,5 +14,7 @@
     "wunderground.coffee",
     "redis-brain.coffee",
     "shipit.coffee",
-    "travis.coffee"
+    "travis.coffee",
+    "giphy.coffee",
+    "doer_of_deeds.coffee"
 ]
