@@ -22,7 +22,8 @@
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
     "markov": "0.0.6",
-    "randomstring": "1.0.2"
+    "randomstring": "1.0.2",
+    "gitio": "1.0.1"
   },
 
   "engines": {
