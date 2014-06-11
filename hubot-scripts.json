@@ -16,5 +16,6 @@
     "shipit.coffee",
     "travis.coffee",
     "giphy.coffee",
-    "doer_of_deeds.coffee"
+    "doer_of_deeds.coffee",
+    "achievement_unlocked.coffee"
 ]
