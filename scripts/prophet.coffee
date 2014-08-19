@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   felch.
+#   prophet doug bogoasity
 #
 # Author:
 #   Data Folk
