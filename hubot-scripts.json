@@ -7,11 +7,15 @@
     "cowsay.coffee",
     "fml.coffee",
     "manatee.coffee",
-    "meme_generator.coffee",
+    "meme_captain.coffee",
     "news.coffee",
     "ping.coffee",
     "sheits.coffee",
     "wunderground.coffee",
     "redis-brain.coffee",
-    "shipit.coffee"
+    "shipit.coffee",
+    "travis.coffee",
+    "giphy.coffee",
+    "doer_of_deeds.coffee",
+    "achievement_unlocked.coffee"
 ]
