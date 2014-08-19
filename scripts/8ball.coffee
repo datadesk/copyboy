@@ -37,5 +37,5 @@ ball = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /(.*)(eightball|8ball|8-ball|magic 8ball|magic 8-ball)/i, (msg) ->
+  robot.respond /(.*)(eightball|8ball|8 ball|8-ball|magic 8ball|magic 8-ball)/i, (msg) ->
     msg.reply msg.random ball
