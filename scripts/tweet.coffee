@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   hubot eightball <query> - Ask the magic eight ball a question
+#   hubot needs a tweet
 #
 # Author:
 #   jschleuss
@@ -39,46 +39,39 @@ nouns = [
 	"Net Neutrality",
 	"The Apple Watch",
 	"A mission to Mars",
+	"A senator from Arkansas",
+	"A forecaster",
+	"A LAFD spokesperson",
+	"A girl scout",
+
 	]
-	
 
-
-
-
-
-
-
+mids = [
+	"has resigned",
+	"derailed",
+	"issued a statement",
+	"was arrested",
+	"smoked five or six more joints a day",
+	"wrote a controversial letter",
+	"was audited",
+	"won the lottery",
+	"produced a documentary",
+	"passed through security at LAX",
+	"stole cookies",
+	"spent more than $40 million",
+	]
 
 ends = [
-	"and the most amazing thing happened",
-	"and you won't believe what happened next",
-	"and the result will blow your mind",
-	"what happened next will amaze you",
+	"and the most amazing thing happened.",
+	"and you won't believe what happened next.",
+	"and the result will blow your mind.",
+	"what happened next will amaze you.",
 	]
-
-ball = [
-  "It is certain",
-  "It is decidedly so",
-  "Without a doubt",
-  "Yes – definitely",
-  "You may rely on it",
-  "As I see it, yes",
-  "Most likely",
-  "Outlook good",
-  "Signs point to yes",
-  "Yes",
-  "Reply hazy, try again",
-  "Ask again later",
-  "Better not tell you now",
-  "Cannot predict now",
-  "Concentrate and ask again",
-  "Don't count on it",
-  "My reply is no",
-  "My sources say no",
-  "Outlook not so good",
-  "Very doubtful",
-]
 
 module.exports = (robot) ->
   robot.respond /(.*)(needs a tweet)/i, (msg) ->
-    msg.reply msg.random ball
+    s1 = msg.random nouns
+    s2 = msg.random mids
+    s3 = msg.random ends
+    msg.reply s1 + " " + s2 + " " + s3
+
