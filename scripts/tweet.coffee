@@ -11,7 +11,7 @@
 #   hubot eightball <query> - Ask the magic eight ball a question
 #
 # Author:
-#   jschleuss
+#   ryanatwork
 
 ball = [
   "It is certain",
