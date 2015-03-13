@@ -1,5 +1,5 @@
 # Description:
-#   The Magic Eight ball
+#   Because clickbate is hard
 #
 # Dependencies:
 #   None
@@ -11,7 +11,50 @@
 #   hubot eightball <query> - Ask the magic eight ball a question
 #
 # Author:
-#   ryanatwork
+#   jschleuss
+
+nouns = [
+	"The Exide plant",
+	"An LAPD officer",
+	"Julian Assange",
+	"Los Angeles Mayor Eric Garcetti",
+	"A Metro bus",
+	"A llama",
+	"Some dude at Coachella",
+	"Jerry Brown",
+	"ISIS",
+	"A fraternity",
+	"A missing plane",
+	"Traffic",
+	"A non-GMO artichoke",
+	"Someone smoking pot",
+	"A crazy winter storm",
+	"A cache of emails",
+	"Bill Clinton",
+	"A fraternity house",
+	"Barack Obama",
+	"Plastic bags",
+	"The stock market",
+	"A new law",
+	"Net Neutrality",
+	"The Apple Watch",
+	"A mission to Mars",
+	]
+	
+
+
+
+
+
+
+
+
+ends = [
+	"and the most amazing thing happened",
+	"and you won't believe what happened next",
+	"and the result will blow your mind",
+	"what happened next will amaze you",
+	]
 
 ball = [
   "It is certain",
@@ -37,5 +80,5 @@ ball = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /(.*)(eightball|8ball|8 ball|8-ball|magic 8ball|magic 8-ball)/i, (msg) ->
+  robot.respond /(.*)(needs a tweet)/i, (msg) ->
     msg.reply msg.random ball
