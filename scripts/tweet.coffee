@@ -65,7 +65,8 @@ ends = [
 	"and the most amazing thing happened.",
 	"and you won't believe what happened next.",
 	"and the result will blow your mind.",
-	"what happened next will amaze you.",
+	"; what happened next will amaze you.",
+	"and it will inspire you.",
 	]
 
 module.exports = (robot) ->
