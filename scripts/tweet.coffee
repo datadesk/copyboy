@@ -43,7 +43,10 @@ nouns = [
 	"A forecaster",
 	"A LAFD spokesperson",
 	"A girl scout",
-
+	"A tesla",
+	"The drought"
+	"Steve Balmer",
+	"The Lakers",
 	]
 
 mids = [
@@ -59,20 +62,54 @@ mids = [
 	"passed through security at LAX",
 	"stole cookies",
 	"spent more than $40 million",
+	"parked a Tesla",
+	"got on the 405",
+	"filed a lawsuit",
+	"created a clickbaity tweet",
+	"had an accident",
+	"took an Uber",
+	"took a Lyft",
+	"got onto the wrong plane at LAX",
+	"photographed Steve Balmer",
+	]
+
+preps = [
+	"from office",
+	"from school",
+	"after leaving a bar",
+	"for drunk driving",
+	"under a tree",
+	"to the president",
+	"on reality TV",
+	"on whales",
+	"without removing shoes",
+	"from a boy scout",
+	"on cheetos",
+	"at a Sonic",
+	"at a Waffle House",
+	"on Instagram",
+	"in traffic",
+	"against hedgehogs",
+	"to Santa Monica",
+	"to Arizona",
+	"after picking a nose",
 	]
 
 ends = [
-	"and the most amazing thing happened.",
-	"and you won't believe what happened next.",
-	"and the result will blow your mind.",
+	" and the most amazing thing happened.",
+	" and you won't believe what happened next.",
+	" and the result will blow your mind.",
 	"; what happened next will amaze you.",
-	"and it will inspire you.",
+	" and it will inspire you.",
+	" and it's not what you think."
+	" and it will change your faith in humanity.",
 	]
 
 module.exports = (robot) ->
   robot.respond /(.*)(needs a tweet)/i, (msg) ->
     s1 = msg.random nouns
     s2 = msg.random mids
-    s3 = msg.random ends
-    msg.reply s1 + " " + s2 + " " + s3
+    s3 = msg.random preps
+    s4 = msg.random ends
+    msg.reply s1 + " " + s2 + " " + s3 + s4
 
