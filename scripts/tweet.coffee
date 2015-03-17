@@ -43,10 +43,11 @@ nouns = [
 	"A forecaster",
 	"A LAFD spokesperson",
 	"A girl scout",
-	"A tesla",
+	"A Tesla",
 	"The drought"
 	"Steve Balmer",
 	"The Lakers",
+	"Elon Musk",
 	]
 
 mids = [
@@ -71,11 +72,14 @@ mids = [
 	"took a Lyft",
 	"got onto the wrong plane at LAX",
 	"photographed Steve Balmer",
+	"smuggled Mexican Coke",
+	"was vaccinated",
+	"crashed a drone"
 	]
 
 preps = [
-	"from office",
-	"from school",
+	"from an office",
+	"from a school",
 	"after leaving a bar",
 	"for drunk driving",
 	"under a tree",
@@ -92,7 +96,7 @@ preps = [
 	"against hedgehogs",
 	"to Santa Monica",
 	"to Arizona",
-	"after picking a nose",
+	"after picking a nose"
 	]
 
 ends = [
@@ -101,8 +105,8 @@ ends = [
 	" and the result will blow your mind.",
 	"; what happened next will amaze you.",
 	" and it will inspire you.",
-	" and it's not what you think."
-	" and it will change your faith in humanity.",
+	" and it's not what you think.",
+	" and it will change your faith in humanity."
 	]
 
 module.exports = (robot) ->
