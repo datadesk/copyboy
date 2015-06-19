@@ -16,7 +16,7 @@
 
   "dependencies": {
     "hubot": "2.7.1",
-    "hubot-irc": "git+https://github.com/datadesk/hubot-irc.git",
+    "hubot-slack": "3.3.0",
     "optparse": "1.0.5",
     "hubot-scripts": "2.5.14",
     "htmlparser": "1.7.6",
@@ -31,5 +31,3 @@
     "npm": "1.1.x"
   }
 }
-
-

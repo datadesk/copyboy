@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n copyboy
+web: bin/hubot --adapter slack
