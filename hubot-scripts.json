@@ -1,6 +1,7 @@
 [
     "ascii.coffee",
     "applause.coffee",
+    "blame_ken.coffee",
     "bees.coffee",
     "bitly.coffee",
     "coin.coffee",
