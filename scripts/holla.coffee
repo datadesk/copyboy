@@ -23,6 +23,7 @@ messages = [
   "I ain't no hollaback girl"
   "Still standing"
   "Yo yoooooooooooooo"
+  "NGUX if you bucks"
 ]
 
 module.exports = (robot) ->
