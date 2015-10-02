@@ -20,7 +20,9 @@ messages = [
   "holla Holla HOLLA!"
   "Get back at me."
   "Holla back at cha"
-  "I ain't no hollaback girl"  
+  "I ain't no hollaback girl"
+  "Still standing"
+  "Yo yoooooooooooooo"
 ]
 
 module.exports = (robot) ->
