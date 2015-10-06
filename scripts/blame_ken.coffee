@@ -13,5 +13,5 @@
 #   @anthonyjpesce
 
 module.exports = (robot) ->
-  robot.hear /blame ken/i, (msg) ->
+  robot.hear /(blame ken)/i, (msg) ->
     msg.send "http://s3-us-west-2.amazonaws.com/latimes-graphics-media/assets/img/blame-ken.png"
