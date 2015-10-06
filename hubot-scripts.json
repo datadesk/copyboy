@@ -19,5 +19,6 @@
     "travis.coffee",
     "giphy.coffee",
     "doer_of_deeds.coffee",
-    "achievement_unlocked.coffee"
+    "achievement_unlocked.coffee",
+    "blame_ken.coffee"
 ]
