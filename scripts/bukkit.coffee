@@ -1,3 +1,19 @@
+# Description:
+#   Fetches images from bukk.it
+#
+# Dependencies:
+#   None
+#
+# Configuration:
+#   None
+#
+# Commands:
+#   copyboy bukkit <query>
+#   copyboy bukk.it <query>
+#
+# Author:
+#   joemfox
+
 bukkitlibrary = [
   "¯_(ツ)__¯.gif"
   "…pardon.gif"
