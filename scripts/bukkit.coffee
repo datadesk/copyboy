@@ -1,19 +1,3 @@
-# Description:
-#   Fetches images from bukk.it
-#
-# Dependencies:
-#   None
-#
-# Configuration:
-#   None
-#
-# Commands:
-#   copyboy bukkit <query>
-#   copyboy bukk.it <query>
-#
-# Author:
-#   joemfox
-
 bukkitlibrary = [
   "¯_(ツ)__¯.gif"
   "…pardon.gif"
@@ -2354,19 +2338,24 @@ module.exports = (robot) ->
     search = msg.match[2]
     searchindex = bukkitlibrary.indexOf(search)
     if searchindex > -1
-      bukkitmatch = "http://bukk.it/" + bukkitlibrary[searchindex]
+      bukkitmatch = "bukk.it/" + bukkitlibrary[searchindex]
       msg.send bukkitmatch
     else
       distance = 99
       bestmatch = 0
       x = 0
+      closest = []
       while x < bukkitlibrary.length
         nextdistance = getLevenshteinDistance(search, bukkitlibrary[x])
         if nextdistance < distance
           distance = nextdistance
           bestmatch = x
+          closest = []
+          closest.push x
+        else if nextdistance == distance
+          closest.push x
         x++
-      bukkitmatch = "http://bukk.it/" + bukkitlibrary[bestmatch]
+      bukkitmatch = "bukk.it/" + bukkitlibrary[closest[Math.floor(Math.random() * closest.length)]]
       msg.send bukkitmatch
 
 getLevenshteinDistance = (a, b) ->
