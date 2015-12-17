@@ -2354,7 +2354,7 @@ module.exports = (robot) ->
     search = msg.match[2]
     searchindex = bukkitlibrary.indexOf(search)
     if searchindex > -1
-      bukkitmatch = "bukk.it/" + bukkitlibrary[searchindex]
+      bukkitmatch = "http://bukk.it/" + bukkitlibrary[searchindex]
       msg.send bukkitmatch
     else
       distance = 99
@@ -2371,7 +2371,7 @@ module.exports = (robot) ->
         else if nextdistance == distance
           closest.push x
         x++
-      bukkitmatch = "bukk.it/" + bukkitlibrary[closest[Math.floor(Math.random() * closest.length)]]
+      bukkitmatch = "http://bukk.it/" + bukkitlibrary[closest[Math.floor(Math.random() * closest.length)]]
       msg.send bukkitmatch
 
 getLevenshteinDistance = (a, b) ->
