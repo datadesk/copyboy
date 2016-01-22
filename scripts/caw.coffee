@@ -19,6 +19,7 @@ images = [
   "https://media.giphy.com/media/26huD8EXJtQ7YafQs/giphy.gif" # Trump 2016
   "https://www.youtube.com/watch?v=Hr-xBtVU4lg" # Eagle taking out multicopter
   "https://www.youtube.com/watch?v=apX0WlWNGBw" # Eagle throws goat off cliff
+  "http://i.imgur.com/eQDh4iZ.jpg" # P2P freedom rings
 ]
 
 module.exports = (robot) ->
