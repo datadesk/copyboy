@@ -20,6 +20,8 @@ images = [
   "https://www.youtube.com/watch?v=Hr-xBtVU4lg" # Eagle taking out multicopter
   "https://www.youtube.com/watch?v=apX0WlWNGBw" # Eagle throws goat off cliff
   "http://i.imgur.com/eQDh4iZ.jpg" # P2P freedom rings
+  "https://media.giphy.com/media/fzE1zazqrCFi/giphy.gif" # Patriotic cartoon
+  "https://media.giphy.com/media/yNeiSMm0KpwJ2/giphy.gif" # Zooming screetch
 ]
 
 module.exports = (robot) ->
