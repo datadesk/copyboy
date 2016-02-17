@@ -2360,13 +2360,18 @@ module.exports = (robot) ->
       distance = 99
       bestmatch = 0
       x = 0
+      closest = []
       while x < bukkitlibrary.length
         nextdistance = getLevenshteinDistance(search, bukkitlibrary[x])
         if nextdistance < distance
           distance = nextdistance
           bestmatch = x
+          closest = []
+          closest.push x
+        else if nextdistance == distance
+          closest.push x
         x++
-      bukkitmatch = "http://bukk.it/" + bukkitlibrary[bestmatch]
+      bukkitmatch = "http://bukk.it/" + bukkitlibrary[closest[Math.floor(Math.random() * closest.length)]]
       msg.send bukkitmatch
 
 getLevenshteinDistance = (a, b) ->
