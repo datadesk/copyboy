@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   hubot feedback <query>
+#   hubot I need feedback
 #
 # Author:
 #   @anthonyjpesce
