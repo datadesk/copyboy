@@ -25,6 +25,7 @@ feedback = [
   "This might be a completely terrible idea, but...",
   "https://media.giphy.com/media/10koGH0aisNoli/giphy.gif",
   "Parallax scrolling? In 2016? Groundbreaking.",
+  "Have you thought about making this VR?",
 ]
 
 module.exports = (robot) ->
