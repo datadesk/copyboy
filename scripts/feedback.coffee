@@ -21,11 +21,12 @@ feedback = [
   "I don't see it.",
   "I think it needs a refactor.",
   "I'm not sure about that headline.",
-  "Well, I dont hate it.",
+  "Well, I don't hate it.",
   "This might be a completely terrible idea, but...",
   "https://media.giphy.com/media/10koGH0aisNoli/giphy.gif",
   "Parallax scrolling? In 2016? Groundbreaking.",
   "Have you thought about making this VR?",
+  "I love it! What if you...",
 ]
 
 module.exports = (robot) ->
