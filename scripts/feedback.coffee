@@ -27,6 +27,7 @@ feedback = [
   "Parallax scrolling? In 2016? Groundbreaking.",
   "Have you thought about making this VR?",
   "I love it! What if you...",
+  "I hate this less than I thought I would?",
 ]
 
 module.exports = (robot) ->
