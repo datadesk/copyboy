@@ -1495,7 +1495,6 @@ bukkitlibrary = [
   "ohyou.jpg"
   "okay.gif"
   "okwiththis.png"
-  "olia/"
   "om.jpg"
   "omar.gif"
   "omfg.jpg"
