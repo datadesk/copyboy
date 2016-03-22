@@ -15,7 +15,7 @@
 #   joemfox
 
 bukkitlibrary = [
-  "¯\_(ツ)__¯.gif"
+"¯%5c_(ツ)__¯.gif"
 "…pardon.gif"
 "∞.gif"
 "!.gif"
