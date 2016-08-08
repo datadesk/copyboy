@@ -258,9 +258,8 @@ intros = [
     "Somebody posted on LA Times Line that "
 ]
 
-search = "cat.gif"
 
 module.exports = (robot) ->
-    robot.respond /(what are you hearing)*/i, (msg) ->
+    robot.respond /(what are you hearing)/i, (msg) ->
         rumor = intros[Math.floor(Math.random() * intros.length)] + nouns[Math.floor(Math.random() * nouns.length)] + " moving to " + places[Math.floor(Math.random() * places.length)] + "."
         msg.send rumor
