@@ -234,6 +234,7 @@ places = [
     "West Hollywood"
     "Westlake Village"
     "Whittier"
+    "County lockup"
 ]
 
 nouns = [
@@ -252,6 +253,9 @@ intros = [
     "I just overheard "
     "I got an email that says "
     "A little bird told me "
+    "At Shelby's Metro meeting they said "
+    "Saji called the desk last night and said he's hearing "
+    "Somebody posted on LA Times Line that "
 ]
 
 search = "cat.gif"
