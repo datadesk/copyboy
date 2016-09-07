@@ -117,7 +117,7 @@ jokes = [
   "Never trust atoms. They make up everything."
   "If Apple made car, would it have Windows?"
   "How does Moses make his tea?  Hebrews it."
-  "A ham sandwich walks into a bar and orders a beer. The Bartender says, "Sorry, we don't serve food here.""
+  "A ham sandwich walks into a bar and orders a beer. The Bartender says, \"Sorry, we don’t serve food here.\""
   "How do you make holy water?  You boil the hell out of it."
   "Two guys walk into a bar, the third one ducks."
   "I had a dream I was a muffler last night. I woke up exhausted!"
