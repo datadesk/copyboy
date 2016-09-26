@@ -30,13 +30,4 @@ module.exports = (robot) ->
 			line4 = res.match[12].replace /[ ]/g,'%20'
 		else
 			line4 = (Math.floor(Math.random() * 1010) + 1000) + "-" + (1900 + now.getYear())
-		res.reply res.match[1]
-		res.reply res.match[2]
-		res.reply res.match[3]
-		res.reply res.match[4]
-		res.reply res.match[5]
-		res.reply res.match[6]
-		res.reply res.match[7]
-		res.reply res.match[8]
-		res.reply res.match[12]
 		res.reply "http://www.tombstonebuilder.com/generate.php?top1=" + line1 + "&top2=" + line2 + "&top3=" + line3 + "&top4=" + line4 + "&sp="
