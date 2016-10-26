@@ -17,7 +17,7 @@
 module.exports = (robot) ->
 	robot.respond /(rip|RIP)(\ *)(([^/]|\ )*)(\/?)(([^/]|\ )*)(\/?)(([^/]|\ )*)(\/?)(([^/]|\ )*)/i, (res) ->
 		now = new Date
-		line1 = res.match[3].replace(' ','%20')
+		line1 = res.match[3].replace /\ /g,'%20'
 		if typeof(res.match[6]) != 'undefined'
 			line2 = res.match[6].replace /[ ]/g,'%20'
 		else
