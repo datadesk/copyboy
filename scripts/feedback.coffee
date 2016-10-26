@@ -28,6 +28,7 @@ feedback = [
   "Have you thought about making this VR?",
   "I love it! What if you...",
   "I hate this less than I thought I would?",
+  "http://i.imgur.com/LJH74us.jpg"
 ]
 
 module.exports = (robot) ->
