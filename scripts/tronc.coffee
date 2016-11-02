@@ -17,6 +17,7 @@ images = [
   "https://media.giphy.com/media/gytualqa3rr68/giphy.gif" # the funnel
   "https://media.giphy.com/media/xbz97dDSRHFg4/giphy.gif" # the x
   "https://media.giphy.com/media/XedOpORq5eFz2/giphy.gif" # plonft chart
+  "https://jeffl.es/_/stuntbox.gif" # @business
 ]
 
 module.exports = (robot) ->
