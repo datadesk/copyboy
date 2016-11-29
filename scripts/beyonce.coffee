@@ -18,9 +18,12 @@ beyonces = [
     "http://www.youtube.com/watch?v=4m1EFMoRFvY",
     "http://www.youtube.com/watch?v=FHp2KgyQUFk",
     "http://www.youtube.com/watch?v=2EwViQxSJJQ",
-    "http://www.youtube.com/watch?v=sQgd6MccwZc"
+    "http://www.youtube.com/watch?v=sQgd6MccwZc",
+    "https://www.youtube.com/watch?v=QxsmWxxouIM",
+    "https://www.youtube.com/watch?v=LXXQLa-5n5w",
+    "https://www.youtube.com/watch?v=p1JPKLa-Ofc"
 ]
 
 module.exports = (robot) ->
-  robot.hear /(beyonce)|(who run the world)|(diva)|(to the left)|(irreplaceable)|(scrubs)|(bills)/i, (msg) ->
+  robot.hear /(beyonce)|(boy bye)|(lemonade)|(who run the world)|(diva)|(to the left)|(irreplaceable)|(scrubs)|(bills)/i, (msg) ->
     msg.send msg.random beyonces
