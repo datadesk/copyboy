@@ -18,6 +18,7 @@ why = [
   "https://www.youtube.com/watch?v=dgxI3PT9IN8"
   "https://www.youtube.com/watch?v=4fndeDfaWCg"
   "https://www.youtube.com/watch?v=nXhbSmL3Liw" # Jadakiss Why? remix
+  "https://www.youtube.com/watch?v=6ShptQRekOY" # Pharcyde Y? (Jay Dee remix)
 ]
 
 module.exports = (robot) ->
