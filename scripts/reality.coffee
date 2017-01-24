@@ -14,4 +14,4 @@
 
 module.exports = (robot) ->
   robot.respond /(have you ever questioned the nature of your reality)/i, (msg) ->
-    msg.send "No."
+    msg.reply "No."
