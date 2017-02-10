@@ -14,4 +14,4 @@
 
 module.exports = (robot) ->
   robot.hear /(final countdown|final count down)/i, (msg) ->
-    msg.send "http://www.youtube.com/watch?v=AyggY_R3jU8"
+    msg.send "https://www.youtube.com/watch?v=9jK-NcRmVcw"
