@@ -41,6 +41,19 @@ places = [
   "Saffron"
   "first cup cafe"
   "L.A. Cafe"
+  "Belcampo"
+  "DTLA Cheese"
+  "Clifton's Cafeteria"
+  "Blue Cube"
+  "Lilya"
+  "DRNK"
+  "Pie Hole"
+  "Roast to Go"
+  "Ana Maria's"
+  "Tacos Tumbras"
+  "Little Sister"
+  "Yuko Kitchen"
+  "Orleans and York"
 ]
 
 module.exports = (robot) ->
