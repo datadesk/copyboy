@@ -36,7 +36,7 @@ places = [
   "Grand Central"
   "Springtime in New York Cafe"
   "Bento Man"
-  "Coleslaw Bowl"
+  "cole slaw bucket"
   "Wurstküche"
   "Saffron"
   "first cup cafe"
