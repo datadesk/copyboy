@@ -54,6 +54,7 @@ places = [
   "Little Sister"
   "Yuko Kitchen"
   "Orleans and York"
+  "Howlin' Ray's"
 ]
 
 module.exports = (robot) ->
