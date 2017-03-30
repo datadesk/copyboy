@@ -418,5 +418,5 @@ ideas = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /(what are we drawing)/i, (msg) ->
+  robot.respond /(what are we drawing|what should (we|i) draw)/i, (msg) ->
     msg.reply msg.random ideas
