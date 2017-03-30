@@ -55,8 +55,9 @@ places = [
   "Yuko Kitchen"
   "Orleans and York"
   "Howlin' Ray's"
+  "The Cafeteria"
 ]
 
 module.exports = (robot) ->
-  robot.hear /where should I|we eat/i, (msg) ->
-    msg.send msg.random places
+  robot.respond /(where should (we|i) eat)/i, (msg) ->
+    msg.reply msg.random places
