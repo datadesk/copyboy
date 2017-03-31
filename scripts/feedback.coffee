@@ -52,7 +52,11 @@ feedback = [
   "Hate the headline. Like the photo.",
   "Add me to the byline.",
   "Some of this could wait for Phase 2",
-  "Maybe this can run as a sidebar?"
+  "Maybe this can run as a sidebar?",
+  "Has the lawyer seen this?",
+  "The lawyer has some concerns.",
+  "This story needs to hold for more editing.",
+  "https://giphy.com/gifs/newyorker-OANp03XvXEV9u"
 ]
 
 module.exports = (robot) ->
