@@ -38,7 +38,7 @@ feedback = [
   "More circles.",
   "You sure this has been copy edited?",
   "I was hoping for a tooltip.",
-  "Din't we already do this?",
+  "Didn't we already do this?",
   "This was already done by 60 Minutes.",
   "More buttons.",
   "What's the point of this again?",
