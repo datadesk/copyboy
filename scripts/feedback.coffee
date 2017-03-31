@@ -50,7 +50,9 @@ feedback = [
   "I hate center-aligned text.",
   "Ram it.",
   "Hate the headline. Like the photo.",
-  "Add me to the byline."
+  "Add me to the byline.",
+  "Some of this could wait for Phase 2",
+  "Maybe this can run as a sidebar?"
 ]
 
 module.exports = (robot) ->
