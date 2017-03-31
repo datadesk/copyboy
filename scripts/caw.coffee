@@ -22,7 +22,8 @@ images = [
   "http://i.imgur.com/eQDh4iZ.jpg" # P2P freedom rings
   "https://media.giphy.com/media/fzE1zazqrCFi/giphy.gif" # Patriotic cartoon
   "https://media.giphy.com/media/yNeiSMm0KpwJ2/giphy.gif" # Zooming screetch
-  "https://media.giphy.com/media/10ICCuDOMmHxHa/giphy.gif" # Hawkeye jumps off a ledge 
+  "https://media.giphy.com/media/10ICCuDOMmHxHa/giphy.gif" # Hawkeye jumps off a ledge
+  "https://atavist.com/data/files/organization/24442/image/derivative/scale~2000x0~0402ffdirt-1490810572-55.jpg" # Eagle with flag
 ]
 
 module.exports = (robot) ->
