@@ -28,7 +28,29 @@ feedback = [
   "Have you thought about making this VR?",
   "I love it! What if you...",
   "I hate this less than I thought I would?",
-  "http://i.imgur.com/LJH74us.jpg"
+  "http://i.imgur.com/LJH74us.jpg",
+  "Increase the spacing...everywhere",
+  "Bring back the linespacing",
+  "More serifs",
+  "That headline font needs help",
+  "Is it responsive?",
+  "Have you tried that in hexagons?",
+  "More circles.",
+  "You sure this has been copy edited?",
+  "I was hoping for a tooltip.",
+  "Din't we already do this?",
+  "This was already done by 60 Minutes.",
+  "More buttons.",
+  "What's the point of this again?",
+  "Is there a cube ad?",
+  "Can we move the video higher?",
+  "Can we autoplay that?",
+  "Is it obvious that I have to scroll?",
+  "Where are the share buttons?",
+  "I hate center-aligned text.",
+  "Ram it.",
+  "Hate the headline. Like the photo.",
+  "Add me to the byline."
 ]
 
 module.exports = (robot) ->

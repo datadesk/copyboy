@@ -84,7 +84,7 @@ jokes = [
   "I went down the local supermarket and said, “I want to make a complaint, this vinegar's got lumps in it”, he said, “Those are pickled onions.”"
   "I backed a horse last week at ten to one. It came in at quarter past four."
   "I swear, the other day I bought a packet of peanuts, and on the packet it said, “may contain nuts.” Well, YES! That's what I bought the buggers for! You'd be annoyed if you opened it and a fish fell out!”"
-  "A lorry-load of tortoises crashed into a trainload of terrapins. What a turtle disaster!"
+  "A truckload of tortoises crashed into a trainload of terrapins. What a turtle disaster!"
   "Two Eskimos sitting in a kayak were chilly. But when they lit a fire in the craft, it sank, proving once and for all that you can't have your kayak and heat it."
   "My nextdoor neighbor worships exhaust pipes. He's a catholic converter."
   "A three-legged dog walks into a saloon out West. He slides up to the bar and announces: “I'm looking for the man who shot my paw.”"
