@@ -56,7 +56,12 @@ feedback = [
   "Has the lawyer seen this?",
   "The lawyer has some concerns.",
   "This story needs to hold for more editing.",
-  "https://giphy.com/gifs/newyorker-OANp03XvXEV9u"
+  "https://giphy.com/gifs/newyorker-OANp03XvXEV9u",
+  "It feels really floaty.",
+  "Could you make the colors more West Coast?",
+  "Very bespoke.",
+  "Can we parameterize it?",
+  "You should've done this as a middle builder."
 ]
 
 module.exports = (robot) ->
