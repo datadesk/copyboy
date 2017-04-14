@@ -24,7 +24,6 @@ places = [
   "Spitz"
   "Señor Fish"
   "Badmaash"
-  "Redwood"
   "Wexler's"
   "Sticky Rice"
   "Eggslut"
