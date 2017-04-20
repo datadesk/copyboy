@@ -62,7 +62,8 @@ feedback = [
   "Very bespoke.",
   "Can we parameterize it?",
   "You should've done this as a middle builder.",
-  "Green is not a creative color."
+  "Green is not a creative color.",
+  "STOP"
 ]
 
 module.exports = (robot) ->
