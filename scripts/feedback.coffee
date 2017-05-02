@@ -64,7 +64,8 @@ feedback = [
   "You should've done this as a middle builder.",
   "Green is not a creative color.",
   "STOP",
-  "That's some dope 'tent"
+  "That's some dope 'tent",
+  "Horizontalize it"
 ]
 
 module.exports = (robot) ->
