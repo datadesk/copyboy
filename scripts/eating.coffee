@@ -35,18 +35,14 @@ places = [
   "Grand Central"
   "Springtime in New York Cafe"
   "Bento Man"
-  "cole slaw bucket"
+  "Simply Salad"
   "Wurstküche"
   "Saffron"
-  "first cup cafe"
+  "First Cup Cafe"
   "L.A. Cafe"
   "Belcampo"
   "DTLA Cheese"
   "Clifton's Cafeteria"
-  "Blue Cube"
-  "Lilya"
-  "DRNK"
-  "Pie Hole"
   "Roast to Go"
   "Ana Maria's"
   "Tacos Tumbras"
@@ -55,6 +51,7 @@ places = [
   "Orleans and York"
   "Howlin' Ray's"
   "The Cafeteria"
+  "Birdies"
 ]
 
 module.exports = (robot) ->
