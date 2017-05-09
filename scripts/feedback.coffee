@@ -1,5 +1,5 @@
 # Description:
-#   Sometimes you just need an editor
+#   Sometimes you just need an editor. A lot of this feedback comes from us and some from here: https://www.hoveringartdirector.com
 #
 # Dependencies:
 #   None
@@ -65,7 +65,11 @@ feedback = [
   "Green is not a creative color.",
   "STOP",
   "That's some dope 'tent",
-  "Horizontalize it"
+  "Horizontalize it",
+  "I like where this is going, but you should start over.",
+  "It's not finished yet, is it?",
+  "I like it. I don't love it.",
+  "I don't see the fun in it."
 ]
 
 module.exports = (robot) ->
