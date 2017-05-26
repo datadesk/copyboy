@@ -69,7 +69,8 @@ feedback = [
   "I like where this is going, but you should start over.",
   "It's not finished yet, is it?",
   "I like it. I don't love it.",
-  "I don't see the fun in it."
+  "I don't see the fun in it.",
+  "I have visual ideas that would help you. But, alas, I am too busy shipping."
 ]
 
 module.exports = (robot) ->
