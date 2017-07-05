@@ -371,6 +371,14 @@ places = [
     "Villa Park"
     "Westminster"
     "Yorba Linda"
+    "Watts Tower"
+    "the Aon building"
+    "Walt Disney Concert Hall"
+    "Disneyland"
+    "an abandoned Kmart"
+    "the U.S. Bank Tower"
+    "Catalina Island"
+    "a lonely spot in the desert that has a turtle with magical powers"
 ]
 
 nouns = [
@@ -380,6 +388,10 @@ nouns = [
     "Metro is"
     "everyone is"
     "the newsroom is"
+    "tronc is"
+    "the cafeteria is"
+    "the morning news meeting"
+    "the coffee bar"
 ]
 
 intros = [
@@ -392,6 +404,7 @@ intros = [
     "At Shelby's Metro meeting they said "
     "Saji called the desk last night and said he's hearing "
     "Somebody posted on LA Times Line that "
+    "My gut tells me that "
 ]
 
 
