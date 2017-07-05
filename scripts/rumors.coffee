@@ -405,6 +405,7 @@ intros = [
     "Saji called the desk last night and said he's hearing "
     "Somebody posted on LA Times Line that "
     "My gut tells me that "
+    "The commenters on UrbanizeLA say "
 ]
 
 
