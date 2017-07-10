@@ -14,7 +14,8 @@
 #   @gaufre
 
 images = [
-  "https://media.giphy.com/media/l0Iy5iXfU8SCXXbC8/giphy.gif"
+  "https://media.giphy.com/media/l0Iy5iXfU8SCXXbC8/giphy.gif" # Lies
+  "http://i.imgur.com/PuHLqL0.gif" # Party parrot
 ]
 
 module.exports = (robot) ->
