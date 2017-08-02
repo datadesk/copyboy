@@ -92,6 +92,7 @@ jokes = [
   "I'll tell you what I love doing more than anything: trying to pack myself in a small suitcase. I can hardly contain myself."
   "Went to the corner shop - bought 4 corners."
   "A seal walks into a club..."
+  "Hey, you know why they call it the Times??? Because there are TWO clocks on the side of the building."
 ]
 
 module.exports = (robot) ->
