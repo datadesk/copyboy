@@ -14,10 +14,9 @@
 #   Soo Oh
 
 images = [
-  "http://i.imgur.com/V6TwZ51.gif" # racist
-  "http://i.imgur.com/b6EzEKk.jpg" # lard
-  "http://i.imgur.com/kri46Yr.gif" # DC
-  "https://pbs.twimg.com/media/B_HjQFVUsAAZlRD.png:large" # Chron crew
+  "https://i.imgur.com/4ehhp5j.jpg" # bourgie lard
+  "https://i.imgur.com/Pugk5Xg.gif" # walk into the club like
+  "https://i.imgur.com/fe2D3hX.jpg" # new york is terrible
 ]
 
 module.exports = (robot) ->
