@@ -21,6 +21,7 @@ images = [
   "http://i.imgur.com/lGhfxkz.png" # wellBEING
   "http://i.imgur.com/OjnZXoR.png" # powering @latimes
   "http://i.imgur.com/s4Rms5z.jpg" # The Very Serious spelled out one
+  "http://i.imgur.com/6Zzmnar.jpg" # Tronc News Tonight
 ]
 
 module.exports = (robot) ->
