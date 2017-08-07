@@ -19,6 +19,7 @@ images = [
   "https://media.giphy.com/media/XedOpORq5eFz2/giphy.gif" # plonft chart
   "https://jeffl.es/_/stuntbox.gif" # @business
   "http://i.imgur.com/lGhfxkz.png" # wellBEING
+  "http://i.imgur.com/OjnZXoR.png" # powering @latimes
 ]
 
 module.exports = (robot) ->
