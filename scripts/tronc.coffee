@@ -20,6 +20,7 @@ images = [
   "https://jeffl.es/_/stuntbox.gif" # @business
   "http://i.imgur.com/lGhfxkz.png" # wellBEING
   "http://i.imgur.com/OjnZXoR.png" # powering @latimes
+  "http://i.imgur.com/s4Rms5z.jpg" # The Very Serious spelled out one
 ]
 
 module.exports = (robot) ->
