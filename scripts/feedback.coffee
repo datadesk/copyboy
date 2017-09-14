@@ -62,7 +62,7 @@ feedback = [
   "Very bespoke.",
   "Can we parameterize it?",
   "You should've done this as a middle builder.",
-  "Green is not a creative color.",
+  "These colors aren't doing it for me.",
   "STOP",
   "That's some dope 'tent",
   "Horizontalize it",
