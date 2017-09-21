@@ -75,5 +75,5 @@ feedback = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /(bigbuilder\.latimes\.com|i need feedback|I need feedback|it needs feedback|http\:\/\/databank\-graphics|http\:\/\/172\.)/i, (msg) ->
+  robot.hear /(bigbuild\.news|bigbuilder\.latimes\.com|i need feedback|I need feedback|it needs feedback|http\:\/\/databank\-graphics|http\:\/\/172\.)/i, (msg) ->
     msg.reply msg.random feedback
