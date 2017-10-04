@@ -25,5 +25,5 @@ beyonces = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /(beyonce)|(boy bye)|(lemonade)|(who run the world)|(diva)|(to the left)|(irreplaceable)|(scrubs)|(bills)/i, (msg) ->
+  robot.hear /(beyonce)|(boy bye)|(lemonade)|(who run the world)|(diva)|(to the left)|(irreplaceable)|/i, (msg) ->
     msg.send msg.random beyonces
