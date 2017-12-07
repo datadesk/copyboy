@@ -390,8 +390,8 @@ nouns = [
     "the newsroom is"
     "tronc is"
     "the cafeteria is"
-    "the morning news meeting"
-    "the coffee bar"
+    "the morning news meeting is"
+    "the coffee bar is"
 ]
 
 intros = [
@@ -406,6 +406,7 @@ intros = [
     "Somebody posted on LA Times Line that "
     "My gut tells me that "
     "The commenters on UrbanizeLA say "
+    "Ken Doctor said his sources say they heard "
 ]
 
 
