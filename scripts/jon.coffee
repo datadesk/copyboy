@@ -14,4 +14,4 @@
 
 module.exports = (robot) ->
   robot.hear /fuck yeah/i, (msg) ->
-    msg.send "https://imgur.com/mdXyVYG.gif"
+    msg.send "https://imgur.com/k6JT9Xz.gif"
