@@ -24,6 +24,9 @@ images = [
   "http://i.imgur.com/6Zzmnar.jpg" # Tronc News Tonight
   "http://i.imgur.com/x8l9kJq.jpg" # cat in space
   "http://i.imgur.com/KsSVg2N.jpg" # bigger cat in space
+  "https://static2.seekingalpha.com/uploads/sa_presentations/784/19784/slides/10.jpg?1516298674" # Redefine "News"
+  "https://static1.seekingalpha.com/uploads/sa_presentations/784/19784/slides/11.jpg?1516298674" # Transforming the core
+  "https://static3.seekingalpha.com/uploads/sa_presentations/784/19784/slides/12.jpg?1516298674" # Transforming the core II 
 ]
 
 module.exports = (robot) ->
