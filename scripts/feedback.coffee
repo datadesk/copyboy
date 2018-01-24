@@ -87,6 +87,8 @@ feedback = [
   "I can't open it on my Blackberry."
   "Rescale the images."
   "The page is WAY too large."
+  "What template did you use to make this?"
+  "Your javascript is too white trash."
 ]
 
 module.exports = (robot) ->
