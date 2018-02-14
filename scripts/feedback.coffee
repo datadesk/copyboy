@@ -71,24 +71,25 @@ feedback = [
   "It's not finished yet, is it?",
   "I like it. I don't love it.",
   "I don't see the fun in it.",
-  "I have visual ideas that would help you. But, alas, I am too busy shipping."
-  "Wait...we did this in house?"
-  "Could you make this in 3D?"
-  "That's hot."
-  "Can this be a story stack?"
-  "The hub is not going to like this."
-  "It needs more ads."
-  "You should take your name off of this."
-  "I don't understand the icons."
-  "Where does this fit in the Scale Pyramid?"
-  "This isn't working in my version of Chrome."
-  "How does it look in IE8?"
-  "Have you shown this to anyone on the biz side?"
-  "I can't open it on my Blackberry."
-  "Rescale the images."
-  "The page is WAY too large."
-  "What template did you use to make this?"
-  "Your javascript is too white trash."
+  "I have visual ideas that would help you. But, alas, I am too busy shipping.",
+  "Wait...we did this in house?",
+  "Could you make this in 3D?",
+  "That's hot.",
+  "Can this be a story stack?",
+  "The hub is not going to like this.",
+  "It needs more ads.",
+  "You should take your name off of this.",
+  "I don't understand the icons.",
+  "Where does this fit in the Scale Pyramid?",
+  "This isn't working in my version of Chrome.",
+  "How does it look in IE8?",
+  "Have you shown this to anyone on the biz side?",
+  "I can't open it on my Blackberry.",
+  "Rescale the images.",
+  "The page is WAY too large.",
+  "What template did you use to make this?",
+  "Your javascript is too white trash.",
+  "research more!!!!!",
 ]
 
 module.exports = (robot) ->
