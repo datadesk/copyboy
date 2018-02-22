@@ -90,6 +90,8 @@ feedback = [
   "What template did you use to make this?",
   "Your javascript is too white trash.",
   "research more!!!!!",
+  "The colors could be more punchy",
+  "Add event tracking"
 ]
 
 module.exports = (robot) ->
