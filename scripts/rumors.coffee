@@ -407,6 +407,7 @@ intros = [
     "My gut tells me that "
     "The commenters on UrbanizeLA say "
     "Ken Doctor said his sources say they heard "
+    "Some random guy who maybe used to work here posted on Facebook that "
 ]
 
 
