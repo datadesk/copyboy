@@ -392,6 +392,7 @@ nouns = [
     "the cafeteria is"
     "the morning news meeting is"
     "the coffee bar is"
+    "the new owner has promised that we are"
 ]
 
 intros = [
