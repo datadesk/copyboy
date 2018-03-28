@@ -13,6 +13,36 @@
 # Author:
 #   joemfox
 
+nouns = [
+    "we are"
+    "Graphics is"
+    "the Data Desk is"
+    "Metro is"
+    "everyone is"
+    "the newsroom is"
+    "tronc is"
+    "the cafeteria is"
+    "the morning news meeting is"
+    "the coffee bar is"
+    "the new owner has promised that we are"
+]
+
+intros = [
+    "I heard "
+    "Rumor has it "
+    "Word on the street is "
+    "I just overheard "
+    "I got an email that says "
+    "A little bird told me "
+    "At Shelby's Metro meeting they said "
+    "Saji called the desk last night and said he's hearing "
+    "Somebody posted on LA Times Line that "
+    "My gut tells me that "
+    "The commenters on UrbanizeLA say "
+    "Ken Doctor said his sources say they heard "
+    "Some random guy who maybe used to work here posted on Facebook that "
+]
+
 places = [
     "Angelino Heights"
     "Arleta"
@@ -378,39 +408,9 @@ places = [
     "an abandoned Kmart"
     "the U.S. Bank Tower"
     "Catalina Island"
+    "a swanky new spot"
     "a lonely spot in the desert that has a turtle with magical powers"
 ]
-
-nouns = [
-    "we are"
-    "Graphics is"
-    "the Data Desk is"
-    "Metro is"
-    "everyone is"
-    "the newsroom is"
-    "tronc is"
-    "the cafeteria is"
-    "the morning news meeting is"
-    "the coffee bar is"
-    "the new owner has promised that we are"
-]
-
-intros = [
-    "I heard "
-    "Rumor has it "
-    "Word on the street is "
-    "I just overheard "
-    "I got an email that says "
-    "A little bird told me "
-    "At Shelby's Metro meeting they said "
-    "Saji called the desk last night and said he's hearing "
-    "Somebody posted on LA Times Line that "
-    "My gut tells me that "
-    "The commenters on UrbanizeLA say "
-    "Ken Doctor said his sources say they heard "
-    "Some random guy who maybe used to work here posted on Facebook that "
-]
-
 
 module.exports = (robot) ->
     robot.respond /(what are you hearing)/i, (msg) ->
