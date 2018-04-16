@@ -24,9 +24,9 @@ images = [
   "http://i.imgur.com/6Zzmnar.jpg" # Tronc News Tonight
   "http://i.imgur.com/x8l9kJq.jpg" # cat in space
   "http://i.imgur.com/KsSVg2N.jpg" # bigger cat in space
-  "https://static2.seekingalpha.com/uploads/sa_presentations/784/19784/slides/10.jpg?1516298674" # Redefine "News"
-  "https://static1.seekingalpha.com/uploads/sa_presentations/784/19784/slides/11.jpg?1516298674" # Transforming the core
-  "https://static3.seekingalpha.com/uploads/sa_presentations/784/19784/slides/12.jpg?1516298674" # Transforming the core II
+  "https://i.imgur.com/rTCVZaO.jpg" # Redefine "News"
+  "https://i.imgur.com/gdcDeZu.jpg" # Transforming the core
+  "https://i.imgur.com/6LrlSpP.jpg" # Transforming the core II
   "https://i.imgur.com/CMgQHER.png" # @LazaroGamio's masterpiece
 ]
 
