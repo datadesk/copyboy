@@ -17,7 +17,7 @@ images = [
   "https://media.giphy.com/media/gytualqa3rr68/giphy.gif" # the funnel
   "https://media.giphy.com/media/xbz97dDSRHFg4/giphy.gif" # the x
   "https://media.giphy.com/media/XedOpORq5eFz2/giphy.gif" # plonft chart
-  "https://jeffl.es/_/stuntbox.gif" # @business
+  "https://media.giphy.com/media/pzKV3TqS8GFTgCVEBS/giphy.gif" # @business
   "http://i.imgur.com/lGhfxkz.png" # wellBEING
   "http://i.imgur.com/OjnZXoR.png" # powering @latimes
   "http://i.imgur.com/s4Rms5z.jpg" # The Very Serious spelled out one
