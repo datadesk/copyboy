@@ -91,7 +91,8 @@ feedback = [
   "Your javascript is too white trash.",
   "research more!!!!!",
   "The colors could be more punchy",
-  "Add event tracking"
+  "Add event tracking",
+  "Is there an El Segundo angle?"
 ]
 
 module.exports = (robot) ->
