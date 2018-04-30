@@ -25,6 +25,13 @@ nouns = [
     "the morning news meeting is"
     "the coffee bar is"
     "the new owner has promised that we are"
+    "Patrick Soon-Shiong's new office is"
+]
+
+verbs = [
+    "moving to"
+    "relocating to"
+    "opening a satellite office in"
 ]
 
 intros = [
@@ -41,6 +48,8 @@ intros = [
     "The commenters on UrbanizeLA say "
     "Ken Doctor said his sources say they heard "
     "Some random guy who maybe used to work here posted on Facebook that "
+    "A random person on Twitter just tweeted that "
+    "My scrubbing of Workday suggests "
 ]
 
 places = [
@@ -410,9 +419,11 @@ places = [
     "Catalina Island"
     "a swanky new spot"
     "a lonely spot in the desert that has a turtle with magical powers"
+    "LAX"
+    "Terminal 4 at LAX"
 ]
 
 module.exports = (robot) ->
     robot.respond /(what are you hearing)/i, (msg) ->
-        rumor = intros[Math.floor(Math.random() * intros.length)] + nouns[Math.floor(Math.random() * nouns.length)] + " moving to " + places[Math.floor(Math.random() * places.length)] + "."
+        rumor = intros[Math.floor(Math.random() * intros.length)] + nouns[Math.floor(Math.random() * nouns.length)] + " " +  verbs[Math.floor(Math.random() * verbs.length)] + " " + places[Math.floor(Math.random() * places.length)] + "."
         msg.send rumor
