@@ -50,8 +50,9 @@ intros = [
     "The commenters on UrbanizeLA say "
     "Ken Doctor said his sources say they heard "
     "Some random guy who maybe used to work here posted on Facebook that "
-    "A random person on Twitter just tweeted that "
+    "A rando on Twitter just tweeted that "
     "My scrubbing of Workday suggests "
+    "I heard that Patrick's people think "
 ]
 
 places = [
