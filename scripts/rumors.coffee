@@ -26,6 +26,8 @@ nouns = [
     "the coffee bar is"
     "the new owner has promised that we are"
     "Patrick Soon-Shiong's new office is"
+    "the printing press is"
+    "the Globe Lobby is"
 ]
 
 verbs = [
