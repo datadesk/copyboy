@@ -28,6 +28,7 @@ images = [
   "https://i.imgur.com/gdcDeZu.jpg" # Transforming the core
   "https://i.imgur.com/6LrlSpP.jpg" # Transforming the core II
   "https://i.imgur.com/CMgQHER.png" # @LazaroGamio's masterpiece
+  "https://i.imgur.com/sMaPlmc.png" # Doing stuff
 ]
 
 module.exports = (robot) ->
