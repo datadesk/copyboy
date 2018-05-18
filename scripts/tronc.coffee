@@ -18,6 +18,8 @@ images = [
   "https://media.giphy.com/media/xbz97dDSRHFg4/giphy.gif" # the x
   "https://media.giphy.com/media/XedOpORq5eFz2/giphy.gif" # plonft chart
   "https://media.giphy.com/media/pzKV3TqS8GFTgCVEBS/giphy.gif" # @business
+  "https://media.giphy.com/media/BN4aRbpGRGIAmtfsYR/giphy.gif" # the future of content
+  "https://media.giphy.com/media/3FQoqb4SHm99PGkjDK/giphy.gif" # space tronc
   "http://i.imgur.com/lGhfxkz.png" # wellBEING
   "http://i.imgur.com/OjnZXoR.png" # powering @latimes
   "http://i.imgur.com/s4Rms5z.jpg" # The Very Serious spelled out one
