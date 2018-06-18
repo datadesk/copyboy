@@ -31,6 +31,8 @@ images = [
   "https://i.imgur.com/6LrlSpP.jpg" # Transforming the core II
   "https://i.imgur.com/CMgQHER.png" # @LazaroGamio's masterpiece
   "https://i.imgur.com/sMaPlmc.png" # Doing stuff
+  "https://i.imgur.com/os031lQ.jpg" # This is tronc
+  "https://i.imgur.com/570QmgV.jpg" # Tronc: The movie
 ]
 
 module.exports = (robot) ->
