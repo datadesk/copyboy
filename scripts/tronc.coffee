@@ -33,6 +33,7 @@ images = [
   "https://i.imgur.com/sMaPlmc.png" # Doing stuff
   "https://i.imgur.com/os031lQ.jpg" # This is tronc
   "https://i.imgur.com/570QmgV.jpg" # Tronc: The movie
+  "https://i.imgur.com/0n3ammB.jpg" # Crying Jordan Tronc
 ]
 
 module.exports = (robot) ->
