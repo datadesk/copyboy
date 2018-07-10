@@ -22,7 +22,8 @@ beyonces = [
     "https://www.youtube.com/watch?v=QxsmWxxouIM",
     "https://www.youtube.com/watch?v=LXXQLa-5n5w",
     "https://www.youtube.com/watch?v=p1JPKLa-Ofc",
-    "https://www.youtube.com/watch?v=OJBfv9CHlcw"
+    "https://www.youtube.com/watch?v=OJBfv9CHlcw",
+    "https://www.youtube.com/watch?v=fbNz1vlRSyM"
 ]
 
 module.exports = (robot) ->
