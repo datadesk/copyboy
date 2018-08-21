@@ -14,44 +14,17 @@
 #   @gaufre
 
 places = [
-  "The Sandwich Shop"
-  "Mendo"
-  "Murakai"
-  "Orochon Ramen"
-  "Marukai"
-  "Curry House"
-  "Mike's Deli"
-  "Spitz"
-  "Señor Fish"
-  "Badmaash"
-  "Wexler's"
-  "Sticky Rice"
-  "Eggslut"
-  "Olio PIzzeria"
-  "Golden Road"
-  "Horse Thief BBQ"
-  "Cherry Pick"
-  "California Pita"
-  "Grand Central"
-  "Springtime in New York Cafe"
-  "Bento Man"
-  "Simply Salad"
-  "Wurstküche"
-  "Saffron"
-  "First Cup Cafe"
-  "L.A. Cafe"
-  "Belcampo"
-  "DTLA Cheese"
-  "Clifton's Cafeteria"
-  "Roast to Go"
-  "Ana Maria's"
-  "Tacos Tumbras"
-  "Little Sister"
-  "Yuko Kitchen"
-  "Orleans and York"
-  "Howlin' Ray's"
-  "The Cafeteria"
-  "Birdies"
+  "At&t cafeteria",
+  "Hummus Republic",
+  "Ask @palewire to hit up somewhere new in Inglewood",
+  "il Romanista",
+  "One Poke",
+  "Proud Bird",
+  "The salads at Starbucks aren't that bad.",
+  "Just work through lunch.",
+  "Postmate from In-N-Out.",
+  "Take a bird to Venice and don't look back",
+  "Eat the lunch your neighbor brought in."
 ]
 
 module.exports = (robot) ->
