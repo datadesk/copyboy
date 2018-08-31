@@ -93,6 +93,8 @@ jokes = [
   "Went to the corner shop - bought 4 corners."
   "A seal walks into a club..."
   "Hey, you know why they call it the Times??? Because there are TWO clocks on the side of the building."
+  "I have a bigbuild for you to turn live today. Ha."
+  "A password walked into a bar and the bartender said, 'Sorry, we dont serve over HTTPS.'"
 ]
 
 module.exports = (robot) ->
