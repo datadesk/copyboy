@@ -16,6 +16,7 @@
 images = [
   "https://media.giphy.com/media/l0Iy5iXfU8SCXXbC8/giphy.gif" # Lies
   "http://i.imgur.com/PuHLqL0.gif" # Party parrot
+  "https://pbs.twimg.com/media/Dm50NwqXsAAqzOC.jpg" # git blame
 ]
 
 module.exports = (robot) ->
