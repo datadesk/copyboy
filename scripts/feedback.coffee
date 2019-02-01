@@ -93,7 +93,8 @@ feedback = [
   "The colors could be more punchy",
   "Add event tracking",
   "Is there an El Segundo angle?",
-  "I don’t not like it. I just don’t love it."
+  "I don’t not like it. I just don’t love it.",
+  "would love to have photo take the lead on this one"
 ]
 
 module.exports = (robot) ->
