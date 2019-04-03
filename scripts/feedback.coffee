@@ -94,8 +94,9 @@ feedback = [
   "Add event tracking",
   "Is there an El Segundo angle?",
   "I don’t not like it. I just don’t love it.",
-  "would love to have photo take the lead on this one"
-  "https://i.imgur.com/NLG3fsG.png"
+  "would love to have photo take the lead on this one",
+  "https://i.imgur.com/NLG3fsG.png",
+  "Will that design translate to the print version of the story?"
 ]
 
 module.exports = (robot) ->
