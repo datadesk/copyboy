@@ -97,7 +97,8 @@ feedback = [
   "would love to have photo take the lead on this one",
   "https://i.imgur.com/NLG3fsG.png",
   "Will that design translate to the print version of the story?",
-  "is that build interactive at all?"
+  "is that build interactive at all?",
+  "skip the JavaScript and just print the text"
 ]
 
 module.exports = (robot) ->
