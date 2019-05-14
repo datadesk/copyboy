@@ -14,6 +14,7 @@
 #   @anthonyjpesce
 
 feedback = [
+  "https://pbs.twimg.com/media/D6dnvt0W0AAJ45j?format=jpg&name=medium",
   "Can you bigger it?",
   "The colors are not immediately apparent.",
   "The top feels a little toothy.",
