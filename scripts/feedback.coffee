@@ -99,7 +99,8 @@ feedback = [
   "https://i.imgur.com/NLG3fsG.png",
   "Will that design translate to the print version of the story?",
   "is that build interactive at all?",
-  "skip the JavaScript and just print the text"
+  "skip the JavaScript and just print the text",
+  "you should stop coding https://pbs.twimg.com/media/D-GagOEUIAAouF2.jpg"
 ]
 
 module.exports = (robot) ->
