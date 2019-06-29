@@ -16,13 +16,11 @@
 inspirationals = [
   "http://www.youtube.com/watch?v=A-yZNMWFqvM"
   "http://www.youtube.com/watch?v=WLrrBs8JBQo"
-  "http://www.youtube.com/watch?v=QsmzDL61oME"
   "http://www.youtube.com/watch?v=1SUzcDUERLo"
   "http://www.youtube.com/watch?v=9rFx6OFooCs"
   "http://www.youtube.com/watch?v=_rAHnwWfsaY"
   "http://www.youtube.com/watch?v=-4pg6Jh94Lo"
   "http://www.youtube.com/watch?v=CDJS9rFGCHE"
-  "http://www.youtube.com/watch?v=AyggY_R3jU8"
   "http://www.youtube.com/watch?v=31Yx9zkMXQk#t=1m25s" # Rocky II 'church' scene
 ]
 
