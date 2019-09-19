@@ -13,7 +13,7 @@
 #   @kyle
 
 images = [
-  "https://s3.amazonaws.com/caltimes-sls-bsp-md-prod/LA/Graphics/blame_lily.jpg"
+  "https://i.imgur.com/1paPrLC.jpg"
 ]
 
 module.exports = (robot) ->
