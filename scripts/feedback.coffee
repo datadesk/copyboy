@@ -100,7 +100,8 @@ feedback = [
   "Will that design translate to the print version of the story?",
   "is that build interactive at all?",
   "skip the JavaScript and just print the text",
-  "you should stop coding https://pbs.twimg.com/media/D-GagOEUIAAouF2.jpg"
+  "you should stop coding https://pbs.twimg.com/media/D-GagOEUIAAouF2.jpg",
+  "Can we make this a 3D model?"
 ]
 
 module.exports = (robot) ->
