@@ -1,14 +1,15 @@
 {
-  "name":        "hosted-hubot",
-  "version":     "2.4.6",
-  "author":      "GitHub Inc.",
-  "keywords":    "github hubot campfire bot",
+  "name": "hosted-hubot",
+  "version": "2.4.6",
+  "author": "GitHub Inc.",
+  "keywords": "github hubot campfire bot",
   "description": "A simple helpful Robot for your Company",
-  "licenses":     [{
-    "type":       "MIT",
-    "url":        "http://github.com/github/hubot/raw/master/LICENSE"
-  }],
-
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/github/hubot/raw/master/LICENSE"
+    }
+  ],
   "dependencies": {
     "hubot": "2.13.2",
     "hubot-slack": "3.3.0",
@@ -20,7 +21,6 @@
     "randomstring": "1.0.2",
     "gitio": "1.0.1"
   },
-
   "engines": {
     "node": ">= 0.8.x",
     "npm": ">= 1.1.x"
