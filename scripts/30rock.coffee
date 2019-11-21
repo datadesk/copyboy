@@ -93,7 +93,8 @@ gifs = [
     "https://media.giphy.com/media/HXwzAvVRnU7S0/giphy.gif",
     "https://media.giphy.com/media/yM5ECVnFMNJny/giphy.gif",
     "https://media.giphy.com/media/Rgqvtk4k2YE6I/giphy.gif",
-    "https://media.giphy.com/media/yM5ECVnFMNJny/giphy.gif"
+    "https://media.giphy.com/media/yM5ECVnFMNJny/giphy.gif",
+    "https://media.giphy.com/media/PgKCJYii2s1MWKPsOM/giphy.gif"
 ]
 
 module.exports = (robot) ->
