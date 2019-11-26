@@ -60,7 +60,7 @@ reading = [
     "https://media1.giphy.com/media/QMeZdKJvEadlC/giphy.webp?cid=790b76118da3a708927981c83f0f8324d5bf9ba6ae6cefaa&rid=giphy.webp",
     "https://media1.giphy.com/media/6Kih4g6m8I4xi/200.webp?cid=790b7611eb732dff17322bafdc7b2cae1a60fa4a5dc655e2&rid=200.webp",
     "https://media3.giphy.com/media/RJiRRe4UP32ww/200.webp?cid=790b7611816d10e213e3551715c43973e0f265746596403a&rid=200.webp",
-    "https://media0.giphy.com/media/mncZVFhXJCCqs/200.webp?cid=790b7611e967f9d5e872cda8e491b1f9099bb6bea64b646e&rid=200.webp,"
+    "https://media0.giphy.com/media/mncZVFhXJCCqs/200.webp?cid=790b7611e967f9d5e872cda8e491b1f9099bb6bea64b646e&rid=200.webp",
     "https://media1.giphy.com/media/qXilCdi2jb1Ti/200.webp?cid=790b76113bc5b12caef56a8290dc82e9887e34d47e31b3c2&rid=200.webp",
     "https://media1.giphy.com/media/hMU1y4kePyQEw/giphy.webp?cid=790b76113bc5b12caef56a8290dc82e9887e34d47e31b3c2&rid=giphy.webp",
     "https://media0.giphy.com/media/GxcgiNC3heGxq/giphy.webp?cid=790b76112c806c4b14eaccfa64cda2cba636881c3e0c8af4&rid=giphy.webp",
