@@ -89,5 +89,5 @@ module.exports = (robot) ->
   robot.respond /(ru me)|(ruview)|(gay feedback)/i, (msg) ->
     msg.send msg.random ruview
 
-  robot.respond /(drag me)|(drag her)|(library is open)/i, (msg) ->
+  robot.respond /(drag me)|(drag her)|(drag race)/i, (msg) ->
     msg.send msg.random reading
