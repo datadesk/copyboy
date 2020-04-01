@@ -11,6 +11,5 @@
     "redis-brain.coffee",
     "shipit.coffee",
     "giphy.coffee",
-    "doer_of_deeds.coffee",
     "achievement_unlocked.coffee"
 ]
